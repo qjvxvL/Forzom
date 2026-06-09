@@ -11,4 +11,4 @@ This project's source code is structured as follows:
 * **The Code:** Distributed under the **MIT License** (or change this to *All Rights Reserved* if you do not want people using your code at all). See the LICENSE file for details.
 * **The Brand:** The MIT License applies **only** to the software code and explicitly **does not** grant any rights or licenses to use the trademarked name **Forzom™** or any matching brand assets for commercial or public redistribution.
 
-* _The core codebase for Forzom is currently in a private repository during active development. Contact me for a private code review demo._
+### _The core codebase for Forzom is currently in a private repository during active development. Contact me for a private code review demo._
